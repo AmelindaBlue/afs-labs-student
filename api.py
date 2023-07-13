@@ -1,3 +1,4 @@
+## COMMENT LAST STEP 6 - Improving the Pipeline.ipynb
 import requests
 from os import environ
 from flask import session, request
